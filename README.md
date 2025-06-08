@@ -1,4 +1,4 @@
-# youtube-preservation-tool
+# youtube-recovery-tool
 
 This Python script helps you save videos from lost YouTube channels using a two-phase approach, can be used in conjunction with yt mass uploader in seperate repository (remember to add link bozo) to upload video title, content, thumbnail and a descirption containing original upload date, like, dislikes:
 
