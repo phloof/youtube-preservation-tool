@@ -45,6 +45,12 @@ This Python script helps you save videos from lost YouTube channels using a two-
 5. Saves metadata and provides success statistics
 
 ## Usage
+### Method 0: Initial install (using .bat) (forgot to add x-x)
+```bash
+installer.bat
+```
+
+will check python install, update pip, install required packages from requirements.txt, test all module imports
 
 ### Method 1: Interactive Mode (Recommended)
 ```bash
